@@ -25,7 +25,7 @@ dependencies {
 		'com.hynnet:commons-lang3:3.3.2',
 		'org.apache.derby:derby:10.8.2.2',
 		'com.sun.jersey:jersey-bundle:1.19',
-		'log4j:log4j:1.2.16',
+		'log4j:log4j:1.2.17',
 		'org.apache.wink:wink-json4j:1.4'
 	providedCompile \
 		'javax:javaee-api:6.0'
