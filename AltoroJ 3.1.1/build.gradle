@@ -20,7 +20,7 @@ sourceSets {
 dependencies {
 	compile \
 		fileTree(dir: "${webAppDirName}/WEB-INF/lib", include: '*.jar'),
-		'commons-codec:commons-codec:1.6',
+		'commons-codec:commons-codec:1.7',
 		'commons-lang:commons-lang:2.5',
 		'com.hynnet:commons-lang3:3.3.2',
 		'org.apache.derby:derby:10.8.2.2',
